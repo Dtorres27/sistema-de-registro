@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm install readt```
+
+sistema de registro 2 
